@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">EXO Profile</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="this_activity">Ini adalah menu activity</string>
+    <string name="this_fragment">Ini adalah menu fragment</string>
+    <string name="search">Search</string>
+    <string name="menu_1">Profile Admin</string>
+    <string name="menu_2">Menu 2</string>
+    <string name="search_hint">Masukkan Kata</string>
+    <string name="exo_name">Nama Member</string>
+    <string name="description">Deskripsi</string>
+    <string name="Home_Fragment">Home Fragment</string>
+    <string name="Album_Fragment">Album Fragment</string>
+    <string-array name="data_name">
+        <item>1. Kim Min Seok</item>
+        <item>2. Kim Jun Myeon</item>
+        <item>3. Zhang Yi Xing</item>
+        <item>4. Byun Baek Hyun</item>
+        <item>5. Kim Jong Dae</item>
+        <item>6. Park Chan Yeol</item>
+        <item>7. Do Kyung Soo</item>
+        <item>8. Kim Jong In</item>
+        <item>9. Oh Se Hun</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Xiumin adalah anggota ketujuh yang diperkenalkan oleh SM Entertainment kepada publik untuk mengisi formasi grup EXO,
+            yakni pada 26 Januari 2012. Nama aslinya adalah Kim Min Seok, lahir pada 26 Maret 1990 di Gyeonggi-do, Korea Selatan.
+            Di grup EXO ini, Xiumin menempati posisi sebagai vocalist dan turut serta dalam sub unit EXO-M dan EXO-CBX.
+            Sebelum bergabung di EXO, Xiumin telah menekuni olahraga sepak bola dan bahkan merupakan duta kehormatan Asosiasi
+            Sepak Bola Korea.</item>
+        <item>Suho adalah anggota kesepuluh yang diperkenalkan oleh SM Entertainment untuk grup EXO pada 15 Februari 2012.
+            Nama aslinya adalah Kim Jun Myeon, lahir pada 22 Mei 1991 di Seoul, Korea Selatan. Suho didapuk sebagai leader dan vokalis utama
+            di grup EXO ini. Setelah “ditemukan” di jalanan oleh agen casting SM Entertainment,Suho pun mengikuti audisi SM Casting System
+            ketika usianya 16 tahun dan berhasil diterima menjadi trainee di agensi SM Entertainment. </item>
+        <item>Lay adalah anggota keenam yang diperkenalkan oleh SM Entertainment kepada publik pada 17 Januari 2012.
+            Nama aslinya adalah Zhang Yixing, lahir pada 7 Oktober 1991 di Hunan, China. Di grup EXO, Lay menempati posisi sebagai rapper,
+            vocalist, dan dancer. Dirinya juga merupakan bagian dari sub unit EXO-M yang memusatkan promosinya di China. Sebelum bergabung
+            di SM Entertainment, Lay adalah bintang lokal di Tiongkok yang bahkan memenangkan juara ke-3 di acara pencarian bakat China Star
+            Academy pada tahun 2005. Sebelum debut, Lay juga turut serta sebagai penari pengganti Jonghyun SHINee untuk konser tur mereka.</item>
+        <item>Baekhyun adalah anggota kesembilan yang diperkenalkan oleh SM Entertainment kepada publik pada 30 Januari 2012.
+            Nama aslinya adalah Byun Baek Hyun, lahir pada 6 Mei 1992 di Gyeonggi, Korea Selatan. Di grup EXO, Baekhyun menempati
+            posisi sebagai vocalist. Baekhyun juga tergabung dalam dua sub unit EXO, yakni EXO-K dan EXO-CBX. Tidak hanya itu saja,
+            Baekhyun dan Kai juga turut serta dalam grup SuperM dan menjadi leader.</item>
+        <item>Chen adalah anggota keempat yang diperkenalkan oleh SM Entertainment untuk boyband EXO ini, yakni pada 29 Desember 2011.
+            Nama aslinya adalah Kim Jong Dae, lahir pada 21 September 1992 di Gyeonggi-do, Korea Selatan. Di grup EXO, Chen menempati
+            posisi sebagai vocalist. Meskipun dirinya adalah anggota dari Korea Selatan, tetapi tetap menjadi bagian dalam sub unit
+            EXO-M dan sebelumnya telah melewati S.M. Casting System pada tahun 2011. </item>
+        <item>Chanyeol adalah anggota kedua belas alias terakhir yang dipublikasikan oleh SM Entertainment kepada publik, yakni
+            pada 22 Februari 2012. Nama aslinya adalah Park Chanyeol, lahir pada 27 November 1992 di Seoul, Korea Selatan. Di grup
+            EXO ini, Chanyeol menempati posisi sebagai rapper dan vocalist. Sama halnya dengan member EXO lainnya, Chanyeol juga
+            mengikuti SM Casting System pada tahun 2008 terlebih dahulu. Chanyeol ikut andil dalam dua sub unit EXO, EXO-K dan EXO-SC.</item>
+        <item>D.O. adalah anggota kedelapan yang diperkenalkan oleh SM Entertainment kepada publik untuk debut bersama EXO pada 30
+            Januari 2012. Nama aslinya adalah Do Kyung Soo, lahir pada 12 Januari 1993 di Gyeonggi, Korea Selatan. Di grup EXO, D.O.
+            menempati posisi sebagai vocalist.</item>
+        <item>Kai adalah anggota pertama yang diperkenalkan oleh SM Entertainment untuk boyband EXO ini melalui trailer teaser resmi
+            yang dirilis pada 23 Desember 2011. Nama aslinya adalah Kim Jong In, lahir pada 14 Januari 1994 di Jeollanam-do, Korea
+            Selatan. Di grup EXO, Kai memiliki posisi sebagai rapper dan vocalist. Dirinya juga menjadi salah satu dari beberapa
+            anggota EXO yang telah menjajal dunia akting. Setelah EXO resmi didebutkan, Kai menjadi bagian dari sub-unit EXO-K
+            yang berpromosi di Korea Selatan.</item>
+        <item>Sehun adalah anggota kelima yang diperkenalkan oleh SM Entertainment kepada publik untuk grup EXO ini yakni pada
+            10 Januari 2012. Nama aslinya adalah Oh Se Hun, lahir pada 12 April 1994 di Seoul, Korea Selatan. Di grup EXO, Sehun
+            menempati posisi sebagai rapper dan vocalist. Sama halnya dengan Kai, Sehun juga merupakan lulusan dari School of
+            Performing Arts Seoul (SOPA) pada tahun 2013.</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/kimminseok</item>
+        <item>@drawable/kimjunmyeon</item>
+        <item>@drawable/zhangyixing</item>
+        <item>@drawable/baekhyun</item>
+        <item>@drawable/kimjongdae</item>
+        <item>@drawable/chanyeol</item>
+        <item>@drawable/dokyungso</item>
+        <item>@drawable/kimjongin</item>
+        <item>@drawable/ohsehun</item>
+    </integer-array>
+</resources>
